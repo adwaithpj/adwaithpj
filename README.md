@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/adwaithpj" target="blank"><img src="https://img.shields.io/twitter/follow/adwaithpj?logo=twitter&style=for-the-badge" alt="adwaithpj" /></a> </p>
 
-- 🔭 I’m currently working on **Guess Game using Python**
+- 🔭 I’m currently working as a UI Inter at GrandReves
 
 - 🌱 I’m currently learning **Data Science**
 
