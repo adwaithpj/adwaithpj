@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/adwaithpj" target="blank"><img src="https://img.shields.io/twitter/follow/adwaithpj?logo=twitter&style=for-the-badge" alt="adwaithpj" /></a> </p>
 
-- 🔭 I’m currently working as a  **SDE intern** at Bluestock Fintech
+- 🔭 I’m currently working on LLM and NLP 
 
 - 🌱 I’m currently learning **Tensorflow**
 
